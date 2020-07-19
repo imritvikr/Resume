@@ -1,5 +1,7 @@
 # Images
 
+Have a look at demo screenshots:
+
 ![image](https://user-images.githubusercontent.com/51307355/86567976-ce40cf00-bf89-11ea-8385-591978d9c992.png)
 
 ![image](https://user-images.githubusercontent.com/51307355/86568068-f0d2e800-bf89-11ea-8618-67a2ff599d44.png)
